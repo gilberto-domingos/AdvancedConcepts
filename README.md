@@ -1,4 +1,4 @@
-# Conceitos e recursos avançados do C# por Joe Marini
+## Conceitos e recursos avançados do C# por Joe Marini
 Technology Industry Veteran
 
 - Ocupou cargos de destaque em diversas empresas do Vale do Silício, incluindo Microsoft, Adobe, Google e Databricks.
@@ -6,6 +6,69 @@ Technology Industry Veteran
 - Joe Marini tem mais de 35 anos de experiência no setor de tecnologia é autor de diversos livros e mais de 40 cursos educacionais sobre desenvolvimento de software.
 
 - Conheça Joe Marini : https://www.linkedin.com/in/joemarini/?trk=lil_instructor
+
+### 1. Funcionalidades Avançadas da Linguagem C#
+
+- Índices e intervalos
+- Indexadores de Classe
+- Operador de coalescência nula
+- Deconstrução com tuplas
+- Deconstrução com classes
+- Melhorias em literais numéricos
+- Desafio de Código: Deconstrução
+- Solução: Deconstrução
+
+### 2. Correspondência Estrutural de Padrões
+
+- Visão geral de correspondência de padrões
+- Padrões básicos
+- Instruções switch aprimoradas
+- Padrões posicionais
+- Padrões relacionais
+- Desafio de Código: Padrões
+- Solução: Padrões
+
+### 3. Delegates
+
+- Delegates anônimos
+- Delegates compostos
+- Desafio de Código: Delegates
+- Solução: Delegates
+
+### 4. Eventos
+
+- Manipuladores de eventos em C#
+- Encadeamento de eventos
+- Desafio: Eventos
+- Solução: Eventos
+
+## 5. Funções Lambda
+
+- Visão geral de funções lambda
+- Lambdas como delegates
+- Desafio: Funções lambda
+- Solução: Funções lambda
+
+## 6. Interfaces
+
+- Interfaces e conversão de tipos
+- Múltiplas interfaces
+- Interfaces explícitas
+- Interfaces definidas pelo .NET
+- Desafio de Código: Interfaces
+- Solução: Interfaces
+
+## Objetivos
+
+- Aplicações C# que utilizam correspondência estrutural de padrões.
+- Compreender como aplicar as convenções modernas da linguagem C# ao escrever código atual.
+- Classes que utilizam interfaces para encapsular comportamentos relevantes.
+- Utilizar delegates para construir classes com lógica personalizável.
+- Código conciso utilizando funções lambda.
+- Técnicas que fornecem às suas classes o mesmo comportamento de objetos nativos da linguagem.
+
+
+
 
 ### Advanced C# Programming Concepts
 This is the repository for the LinkedIn Learning course `Advanced C# Programming Concepts`. The full course is available from [LinkedIn Learning][lil-course-url].
